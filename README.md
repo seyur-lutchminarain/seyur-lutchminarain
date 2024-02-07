@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 
  My name is Seyur Lutchminarain, I'm a software developer based in South Africa! 🇿🇦
- My goal is continuously build and develop my full stack capability as well as to explore new unfamiliar technologies that I think will challenge me.
+ My goal is to continuously build and develop my full stack capability as well as to explore new, unfamiliar technologies that I think will challenge me.
  I have experience in many fields including JavaScript frameworks for front-end development, IaC with CloudFormation, Serverless with AWS, etc. and I am 2X AWS Certfified (Associate Level).
 
  - 🔭: I'm currently working on understanding Web3 technologies like Blockchain and the potential of smart contracts.
